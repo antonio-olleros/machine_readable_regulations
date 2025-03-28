@@ -8,7 +8,7 @@
 
 15. The following accounting portfolios based on IFRS shall be used for financial assets:
 
-      (a) 'Financial assets held for trading';
+      (a) 'Financial assets held for trading'; I have just changed this
 
       (b) 'Non-trading financial assets mandatorily at fair value through profit or loss';
 
