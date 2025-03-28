@@ -8,7 +8,7 @@
 
 15. The following accounting portfolios based on IFRS shall be used for financial assets:
 
-      (a) 'Financial assets held for trading'; I have just changed this
+      (a) 'Financial assets held for trading'; [^item_2592]
 
       (b) 'Non-trading financial assets mandatorily at fair value through profit or loss';
 
@@ -42,6 +42,4 @@
 
 22. 'Derivatives - Hedge accounting' shall include derivatives with a positive balance for the reporting institution held for hedge accounting under IFRS. Under national GAAP based on BAD, banking book derivatives shall be classified as derivatives held for hedge accounting only where there are special accounting rules for banking book derivatives under the relevant national GAAP based on BAD and the derivatives reduce risk of another position in the banking book.
 
-## Financial liabilities
-
-23. The following accounting
+[^item_2592]: aaa.
