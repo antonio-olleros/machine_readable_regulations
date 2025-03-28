@@ -10,7 +10,7 @@
 
       (a) 'Financial assets held for trading'; [^item_2592]
 
-      (b) 'Non-trading financial assets mandatorily at fair value through profit or loss';
+      (b) 'Non-trading financial assets mandatorily at fair value through profit or loss';  [dpm-link](../dpm_regulatory_views/items-detail.md#5000 )  
 
       (c) 'Financial assets designated at fair value through profit or loss';
 
