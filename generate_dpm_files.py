@@ -29,7 +29,7 @@ def convert_csv_to_md(csv_file):
             # Process each row
             for _, row in df.iterrows():
                 # Write the section header (first column)
-                f.write(f"## {row[0]}\n\n")
+                f.write(f"# {row[0]}\n\n")
                 
                 # Create a table with the remaining columns
                 f.write("| Name | Code | Category Code | Category Name |\n")
