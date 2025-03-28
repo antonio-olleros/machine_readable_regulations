@@ -42,4 +42,4 @@
 
 22. 'Derivatives - Hedge accounting' shall include derivatives with a positive balance for the reporting institution held for hedge accounting under IFRS. Under national GAAP based on BAD, banking book derivatives shall be classified as derivatives held for hedge accounting only where there are special accounting rules for banking book derivatives under the relevant national GAAP based on BAD and the derivatives reduce risk of another position in the banking book.
 
-[^item_2592]: aaa.
+[^item_2592]: item_2592 - Category MCY - code x20.
